@@ -23,7 +23,7 @@ CHIP Mux8Way16 {
     Mux8Way(a=a[2], b=b[2], c=c[2], d=d[2], e=e[2], f=f[2], g=g[2], h=h[2], sel=sel, out=out[2]);
     Mux8Way(a=a[3], b=b[3], c=c[3], d=d[3], e=e[3], f=f[3], g=g[3], h=h[3], sel=sel, out=out[3]);
     Mux8Way(a=a[4], b=b[4], c=c[4], d=d[4], e=e[4], f=f[4], g=g[4], h=h[4], sel=sel, out=out[4]);
-    Mux8Way(a=a[5], b=b[5], c=c[5], d=d[5], e=e[5], f=f[5], g=g[5], h=h[5], sel=sel, out=out[5]);
+    Mux8Way(a=a[5],  b=b[5], c=c[5], d=d[5], e=e[5], f=f[5], g=g[5], h=h[5], sel=sel, out=out[5]);
     Mux8Way(a=a[6], b=b[6], c=c[6], d=d[6], e=e[6], f=f[6], g=g[6], h=h[6], sel=sel, out=out[6]);
     Mux8Way(a=a[7], b=b[7], c=c[7], d=d[7], e=e[7], f=f[7], g=g[7], h=h[7], sel=sel, out=out[7]);
     Mux8Way(a=a[8], b=b[8], c=c[8], d=d[8], e=e[8], f=f[8], g=g[8], h=h[8], sel=sel, out=out[8]);
